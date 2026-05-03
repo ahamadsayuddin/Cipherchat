@@ -1,0 +1,14 @@
+{
+  "name": "CipherChat",
+  "description": "Privacy-first secure chatting and gaming platform with E2E encryption and real-time multiplayer games.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Real-time Chat",
+    "End-to-End Encryption",
+    "Multiplayer Games",
+    "WebRTC Voice/Video"
+  ]
+}
